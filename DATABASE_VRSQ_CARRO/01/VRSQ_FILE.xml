@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <USERDATA>
-  <Session A="">
+  <Session 0="">
     <GeneralDiscomfort>0</GeneralDiscomfort>
     <Fatigue>0</Fatigue>
     <EyeStraing>0</EyeStraing>
@@ -11,8 +11,8 @@
     <DizzyEyesClosed>0</DizzyEyesClosed>
     <Vertigo>0</Vertigo>
   </Session>
-  <Session B="">
-    <GeneralDiscomfort>0</GeneralDiscomfort>
+  <Session 1="">
+    <GeneralDiscomfort>1</GeneralDiscomfort>
     <Fatigue>0</Fatigue>
     <EyeStraing>0</EyeStraing>
     <DifficultyFocusing>0</DifficultyFocusing>
@@ -20,6 +20,6 @@
     <FulnessOfHead>0</FulnessOfHead>
     <BlurredVision>0</BlurredVision>
     <DizzyEyesClosed>0</DizzyEyesClosed>
-    <Vertigo>0</Vertigo>
+    <Vertigo>1</Vertigo>
   </Session>
 </USERDATA>
