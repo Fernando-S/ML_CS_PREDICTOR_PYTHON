@@ -3,7 +3,7 @@
   <Session A="">
     <GeneralDiscomfort>0</GeneralDiscomfort>
     <Fatigue>0</Fatigue>
-    <EyeStraing>0</EyeStraing>
+    <EyeStraing>1</EyeStraing>
     <DifficultyFocusing>0</DifficultyFocusing>
     <Headache>0</Headache>
     <FulnessOfHead>0</FulnessOfHead>

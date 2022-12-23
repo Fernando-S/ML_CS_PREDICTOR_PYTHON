@@ -12,7 +12,7 @@
     <Vertigo>0</Vertigo>
   </Session>
   <Session B="">
-    <GeneralDiscomfort>1</GeneralDiscomfort>
+    <GeneralDiscomfort>0</GeneralDiscomfort>
     <Fatigue>0</Fatigue>
     <EyeStraing>0</EyeStraing>
     <DifficultyFocusing>0</DifficultyFocusing>
@@ -20,6 +20,6 @@
     <FulnessOfHead>0</FulnessOfHead>
     <BlurredVision>0</BlurredVision>
     <DizzyEyesClosed>0</DizzyEyesClosed>
-    <Vertigo>1</Vertigo>
+    <Vertigo>0</Vertigo>
   </Session>
 </USERDATA>
