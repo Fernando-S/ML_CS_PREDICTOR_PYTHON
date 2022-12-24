@@ -12,7 +12,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -42,7 +42,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -72,7 +72,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -102,7 +102,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -132,7 +132,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -162,7 +162,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -192,7 +192,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -222,7 +222,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -252,7 +252,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -282,7 +282,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -312,7 +312,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -342,7 +342,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -372,7 +372,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -402,7 +402,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -432,7 +432,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -462,7 +462,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -492,7 +492,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -522,7 +522,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -552,7 +552,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -582,7 +582,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -612,7 +612,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -642,7 +642,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -672,7 +672,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -702,7 +702,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -732,7 +732,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -762,7 +762,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -792,7 +792,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -822,7 +822,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -852,7 +852,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -882,7 +882,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -912,7 +912,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -942,7 +942,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -972,7 +972,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1002,7 +1002,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1032,7 +1032,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1062,7 +1062,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1092,7 +1092,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1122,7 +1122,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1152,7 +1152,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1182,7 +1182,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1212,7 +1212,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1242,7 +1242,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1272,7 +1272,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1302,7 +1302,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1332,7 +1332,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1362,7 +1362,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1392,7 +1392,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1422,7 +1422,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1452,7 +1452,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1482,7 +1482,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1512,7 +1512,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1542,7 +1542,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1572,7 +1572,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1602,7 +1602,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1632,7 +1632,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1662,7 +1662,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1692,7 +1692,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1722,7 +1722,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1752,7 +1752,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1782,7 +1782,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1812,7 +1812,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1842,7 +1842,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1872,7 +1872,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1902,7 +1902,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1932,7 +1932,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1962,7 +1962,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -1992,7 +1992,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2022,7 +2022,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2052,7 +2052,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2082,7 +2082,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2112,7 +2112,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2142,7 +2142,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2172,7 +2172,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2202,7 +2202,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2232,7 +2232,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2262,7 +2262,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2292,7 +2292,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2322,7 +2322,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2352,7 +2352,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2382,7 +2382,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2412,7 +2412,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2442,7 +2442,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2472,7 +2472,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2502,7 +2502,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2532,7 +2532,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2562,7 +2562,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2592,7 +2592,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2622,7 +2622,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2652,7 +2652,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2682,7 +2682,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2712,7 +2712,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2742,7 +2742,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2772,7 +2772,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2802,7 +2802,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2832,7 +2832,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2862,7 +2862,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2892,7 +2892,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2922,7 +2922,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2952,7 +2952,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -2982,7 +2982,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3012,7 +3012,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3042,7 +3042,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3072,7 +3072,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3102,7 +3102,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3132,7 +3132,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3162,7 +3162,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3192,7 +3192,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3222,7 +3222,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3252,7 +3252,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3282,7 +3282,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3312,7 +3312,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3342,7 +3342,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3372,7 +3372,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3402,7 +3402,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3432,7 +3432,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3462,7 +3462,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3492,7 +3492,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3522,7 +3522,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3552,7 +3552,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3582,7 +3582,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3612,7 +3612,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3642,7 +3642,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3672,7 +3672,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3702,7 +3702,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3732,7 +3732,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3762,7 +3762,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3792,7 +3792,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3822,7 +3822,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3852,7 +3852,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3882,7 +3882,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3912,7 +3912,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3942,7 +3942,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -3972,7 +3972,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4002,7 +4002,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4032,7 +4032,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4062,7 +4062,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4092,7 +4092,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4122,7 +4122,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4152,7 +4152,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4182,7 +4182,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4212,7 +4212,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4242,7 +4242,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4272,7 +4272,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4302,7 +4302,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4332,7 +4332,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4362,7 +4362,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4392,7 +4392,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4422,7 +4422,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4452,7 +4452,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4482,7 +4482,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4512,7 +4512,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4542,7 +4542,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4572,7 +4572,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4602,7 +4602,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4632,7 +4632,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4662,7 +4662,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4692,7 +4692,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4722,7 +4722,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4752,7 +4752,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4782,7 +4782,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4812,7 +4812,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4842,7 +4842,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4872,7 +4872,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4902,7 +4902,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4932,7 +4932,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4962,7 +4962,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -4992,7 +4992,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5022,7 +5022,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5052,7 +5052,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5082,7 +5082,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5112,7 +5112,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5142,7 +5142,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5172,7 +5172,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5202,7 +5202,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5232,7 +5232,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5262,7 +5262,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5292,7 +5292,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5322,7 +5322,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5352,7 +5352,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5382,7 +5382,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5412,7 +5412,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5442,7 +5442,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5472,7 +5472,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5502,7 +5502,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5532,7 +5532,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5562,7 +5562,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5592,7 +5592,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5622,7 +5622,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5652,7 +5652,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5682,7 +5682,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5712,7 +5712,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5742,7 +5742,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5772,7 +5772,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5802,7 +5802,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5832,7 +5832,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5862,7 +5862,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5892,7 +5892,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5922,7 +5922,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5952,7 +5952,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -5982,7 +5982,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6012,7 +6012,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6042,7 +6042,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6072,7 +6072,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6102,7 +6102,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6132,7 +6132,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6162,7 +6162,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6192,7 +6192,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6222,7 +6222,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6252,7 +6252,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6282,7 +6282,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6312,7 +6312,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6342,7 +6342,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6372,7 +6372,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6402,7 +6402,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6432,7 +6432,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6462,7 +6462,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6492,7 +6492,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6522,7 +6522,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6552,7 +6552,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6582,7 +6582,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6612,7 +6612,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6642,7 +6642,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6672,7 +6672,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6702,7 +6702,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6732,7 +6732,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6762,7 +6762,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6792,7 +6792,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6822,7 +6822,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6852,7 +6852,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6882,7 +6882,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6912,7 +6912,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6942,7 +6942,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -6972,7 +6972,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7002,7 +7002,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7032,7 +7032,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7062,7 +7062,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7092,7 +7092,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7122,7 +7122,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7152,7 +7152,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7182,7 +7182,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7212,7 +7212,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7242,7 +7242,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7272,7 +7272,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7302,7 +7302,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7332,7 +7332,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7362,7 +7362,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7392,7 +7392,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7422,7 +7422,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7452,7 +7452,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7482,7 +7482,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7512,7 +7512,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7542,7 +7542,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7572,7 +7572,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7602,7 +7602,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7632,7 +7632,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7662,7 +7662,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7692,7 +7692,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7722,7 +7722,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7752,7 +7752,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7782,7 +7782,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7812,7 +7812,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7842,7 +7842,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7872,7 +7872,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7902,7 +7902,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7932,7 +7932,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7962,7 +7962,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -7992,7 +7992,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8022,7 +8022,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8052,7 +8052,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8082,7 +8082,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8112,7 +8112,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8142,7 +8142,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8172,7 +8172,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8202,7 +8202,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8232,7 +8232,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8262,7 +8262,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8292,7 +8292,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8322,7 +8322,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8352,7 +8352,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8382,7 +8382,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8412,7 +8412,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8442,7 +8442,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8472,7 +8472,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8502,7 +8502,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8532,7 +8532,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8562,7 +8562,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8592,7 +8592,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8622,7 +8622,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8652,7 +8652,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8682,7 +8682,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8712,7 +8712,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8742,7 +8742,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8772,7 +8772,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8802,7 +8802,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8832,7 +8832,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8862,7 +8862,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8892,7 +8892,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8922,7 +8922,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8952,7 +8952,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -8982,7 +8982,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -9012,7 +9012,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -9042,7 +9042,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
@@ -9072,7 +9072,7 @@
     <UserEyeDominance>DIREITO</UserEyeDominance>
     <StaticFrame>True</StaticFrame>
     <HapticFeedback>False</HapticFeedback>
-    <DegreeOfControl>TOTAL</DegreeOfControl>
+    <DegreeOfControl>total</DegreeOfControl>
     <DofSimulation>False</DofSimulation>
     <Locomotion>False</Locomotion>
     <CameraAutoMovement>False</CameraAutoMovement>
