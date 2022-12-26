@@ -28,7 +28,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>0</PlayerPositionZ>
     <GameFps>0</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="1.011712">
     <UserGenere>masculino</UserGenere>
@@ -58,7 +58,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>10.11712</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="2.005162">
     <UserGenere>masculino</UserGenere>
@@ -88,7 +88,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>20.05162</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="3.010938">
     <UserGenere>masculino</UserGenere>
@@ -118,7 +118,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>30.10939</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="4.003703">
     <UserGenere>masculino</UserGenere>
@@ -148,7 +148,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>43.99694</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="5.006819">
     <UserGenere>masculino</UserGenere>
@@ -178,7 +178,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>59.04369</PlayerPositionZ>
     <GameFps>74</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="6.013647">
     <UserGenere>masculino</UserGenere>
@@ -208,7 +208,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>74.1461</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="7.006947">
     <UserGenere>masculino</UserGenere>
@@ -238,7 +238,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>89.04559</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="8.003276">
     <UserGenere>masculino</UserGenere>
@@ -268,7 +268,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>103.9906</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="9.005434">
     <UserGenere>masculino</UserGenere>
@@ -298,7 +298,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>119.023</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="10.0114">
     <UserGenere>masculino</UserGenere>
@@ -328,7 +328,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>134.1125</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="11.00615">
     <UserGenere>masculino</UserGenere>
@@ -358,7 +358,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>149.0339</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="12.00855">
     <UserGenere>masculino</UserGenere>
@@ -388,7 +388,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>164.0698</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="13.00637">
     <UserGenere>masculino</UserGenere>
@@ -418,7 +418,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>179.0372</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="14.01307">
     <UserGenere>masculino</UserGenere>
@@ -448,7 +448,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>194.1378</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="15.0056">
     <UserGenere>masculino</UserGenere>
@@ -478,7 +478,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>209.0257</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="16.00824">
     <UserGenere>masculino</UserGenere>
@@ -508,7 +508,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>224.0654</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="17.01308">
     <UserGenere>masculino</UserGenere>
@@ -538,7 +538,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>239.138</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="18.00688">
     <UserGenere>masculino</UserGenere>
@@ -568,7 +568,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>254.045</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="19.00185">
     <UserGenere>masculino</UserGenere>
@@ -598,7 +598,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>268.9696</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="20.00675">
     <UserGenere>masculino</UserGenere>
@@ -628,7 +628,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>284.0431</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="21.01249">
     <UserGenere>masculino</UserGenere>
@@ -658,7 +658,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>299.129</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="22.00637">
     <UserGenere>masculino</UserGenere>
@@ -688,7 +688,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>314.0372</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="23.01181">
     <UserGenere>masculino</UserGenere>
@@ -718,7 +718,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>329.1191</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="24.00485">
     <UserGenere>masculino</UserGenere>
@@ -748,7 +748,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>344.0146</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="25.01038">
     <UserGenere>masculino</UserGenere>
@@ -778,7 +778,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>359.0976</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="26.00461">
     <UserGenere>masculino</UserGenere>
@@ -808,7 +808,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>374.0109</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="27.00181">
     <UserGenere>masculino</UserGenere>
@@ -838,7 +838,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>388.9691</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="28.00663">
     <UserGenere>masculino</UserGenere>
@@ -868,7 +868,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>404.0413</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="29.00878">
     <UserGenere>masculino</UserGenere>
@@ -898,7 +898,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>419.0736</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="30.00286">
     <UserGenere>masculino</UserGenere>
@@ -928,7 +928,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>433.9847</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="31.00844">
     <UserGenere>masculino</UserGenere>
@@ -958,7 +958,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>449.0685</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="32.00301">
     <UserGenere>masculino</UserGenere>
@@ -988,7 +988,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>463.9873</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="33.00774">
     <UserGenere>masculino</UserGenere>
@@ -1018,7 +1018,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>479.0583</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="34.00243">
     <UserGenere>masculino</UserGenere>
@@ -1048,7 +1048,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>493.9786</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="35.01031">
     <UserGenere>masculino</UserGenere>
@@ -1078,7 +1078,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>509.0968</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="36.00193">
     <UserGenere>masculino</UserGenere>
@@ -1108,7 +1108,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>523.971</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="37.00695">
     <UserGenere>masculino</UserGenere>
@@ -1138,7 +1138,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>539.046</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="38.01237">
     <UserGenere>masculino</UserGenere>
@@ -1168,7 +1168,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>554.127</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="39.00614">
     <UserGenere>masculino</UserGenere>
@@ -1198,7 +1198,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>569.0336</PlayerPositionZ>
     <GameFps>92</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="40.01116">
     <UserGenere>masculino</UserGenere>
@@ -1228,7 +1228,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>584.1088</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="41.00708">
     <UserGenere>masculino</UserGenere>
@@ -1258,7 +1258,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>599.0478</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="42.01044">
     <UserGenere>masculino</UserGenere>
@@ -1288,7 +1288,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>614.0983</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="43.00479">
     <UserGenere>masculino</UserGenere>
@@ -1318,7 +1318,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>629.0133</PlayerPositionZ>
     <GameFps>92</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="44.01214">
     <UserGenere>masculino</UserGenere>
@@ -1348,7 +1348,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>644.1234</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="45.00349">
     <UserGenere>masculino</UserGenere>
@@ -1378,7 +1378,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>658.9938</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="46.00868">
     <UserGenere>masculino</UserGenere>
@@ -1408,7 +1408,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>674.0715</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="47.00603">
     <UserGenere>masculino</UserGenere>
@@ -1438,7 +1438,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>689.0315</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="48.00804">
     <UserGenere>masculino</UserGenere>
@@ -1468,7 +1468,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>704.0614</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="49.00217">
     <UserGenere>masculino</UserGenere>
@@ -1498,7 +1498,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>718.9733</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="50.00964">
     <UserGenere>masculino</UserGenere>
@@ -1528,7 +1528,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>734.0854</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="51.00534">
     <UserGenere>masculino</UserGenere>
@@ -1558,7 +1558,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>749.0208</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="52.00713">
     <UserGenere>masculino</UserGenere>
@@ -1588,7 +1588,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>764.0474</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="53.01245">
     <UserGenere>masculino</UserGenere>
@@ -1618,7 +1618,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>779.1274</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="54.00649">
     <UserGenere>masculino</UserGenere>
@@ -1648,7 +1648,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>794.0379</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="55.01263">
     <UserGenere>masculino</UserGenere>
@@ -1678,7 +1678,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>809.13</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="56.0081">
     <UserGenere>masculino</UserGenere>
@@ -1708,7 +1708,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>824.0623</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="57.01059">
     <UserGenere>masculino</UserGenere>
@@ -1738,7 +1738,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>839.0995</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="58.00813">
     <UserGenere>masculino</UserGenere>
@@ -1768,7 +1768,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>854.0629</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="59.01013">
     <UserGenere>masculino</UserGenere>
@@ -1798,7 +1798,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>869.093</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="60.00492">
     <UserGenere>masculino</UserGenere>
@@ -1828,7 +1828,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>884.0147</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="61.00923">
     <UserGenere>masculino</UserGenere>
@@ -1858,7 +1858,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>899.0791</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="62.00559">
     <UserGenere>masculino</UserGenere>
@@ -1888,7 +1888,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>914.0244</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="63.0093">
     <UserGenere>masculino</UserGenere>
@@ -1918,7 +1918,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>929.0804</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="64.00282">
     <UserGenere>masculino</UserGenere>
@@ -1948,7 +1948,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>943.9832</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="65.00879">
     <UserGenere>masculino</UserGenere>
@@ -1978,7 +1978,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>959.0723</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="66.00548">
     <UserGenere>masculino</UserGenere>
@@ -2008,7 +2008,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>974.0232</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="67.00727">
     <UserGenere>masculino</UserGenere>
@@ -2038,7 +2038,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>989.0504</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="68.00394">
     <UserGenere>masculino</UserGenere>
@@ -2068,7 +2068,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1004.001</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="69.007">
     <UserGenere>masculino</UserGenere>
@@ -2098,7 +2098,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1019.046</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="70.01225">
     <UserGenere>masculino</UserGenere>
@@ -2128,7 +2128,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1034.126</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="71.00637">
     <UserGenere>masculino</UserGenere>
@@ -2158,7 +2158,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1049.037</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="72.01199">
     <UserGenere>masculino</UserGenere>
@@ -2188,7 +2188,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1064.122</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="73.00775">
     <UserGenere>masculino</UserGenere>
@@ -2218,7 +2218,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1079.058</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="74.01102">
     <UserGenere>masculino</UserGenere>
@@ -2248,7 +2248,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1094.107</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="75.00656">
     <UserGenere>masculino</UserGenere>
@@ -2278,7 +2278,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1109.041</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="76.01019">
     <UserGenere>masculino</UserGenere>
@@ -2308,7 +2308,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1124.095</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="77.01068">
     <UserGenere>masculino</UserGenere>
@@ -2338,7 +2338,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1139.102</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="78.0095">
     <UserGenere>masculino</UserGenere>
@@ -2368,7 +2368,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1154.085</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="79.00346">
     <UserGenere>masculino</UserGenere>
@@ -2398,7 +2398,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1168.994</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="80.01232">
     <UserGenere>masculino</UserGenere>
@@ -2428,7 +2428,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1184.127</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="81.00259">
     <UserGenere>masculino</UserGenere>
@@ -2458,7 +2458,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1198.98</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="82.00249">
     <UserGenere>masculino</UserGenere>
@@ -2488,7 +2488,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1213.979</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="83.00405">
     <UserGenere>masculino</UserGenere>
@@ -2518,7 +2518,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1229.003</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="84.01067">
     <UserGenere>masculino</UserGenere>
@@ -2548,7 +2548,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1244.102</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="85.00286">
     <UserGenere>masculino</UserGenere>
@@ -2578,7 +2578,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1258.985</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="86.01205">
     <UserGenere>masculino</UserGenere>
@@ -2608,7 +2608,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1274.123</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="87.00253">
     <UserGenere>masculino</UserGenere>
@@ -2638,7 +2638,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1288.981</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="88.0066">
     <UserGenere>masculino</UserGenere>
@@ -2668,7 +2668,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1304.042</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="89.01257">
     <UserGenere>masculino</UserGenere>
@@ -2698,7 +2698,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1319.131</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="90.00559">
     <UserGenere>masculino</UserGenere>
@@ -2728,7 +2728,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1334.027</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="91.01158">
     <UserGenere>masculino</UserGenere>
@@ -2758,7 +2758,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1349.118</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="92.00703">
     <UserGenere>masculino</UserGenere>
@@ -2788,7 +2788,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1364.049</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="93.01166">
     <UserGenere>masculino</UserGenere>
@@ -2818,7 +2818,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1379.118</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="94.00708">
     <UserGenere>masculino</UserGenere>
@@ -2848,7 +2848,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1394.05</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="95.00211">
     <UserGenere>masculino</UserGenere>
@@ -2878,7 +2878,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1408.976</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="96.00426">
     <UserGenere>masculino</UserGenere>
@@ -2908,7 +2908,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1424.009</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="97.00897">
     <UserGenere>masculino</UserGenere>
@@ -2938,7 +2938,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1439.079</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="98.00459">
     <UserGenere>masculino</UserGenere>
@@ -2968,7 +2968,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1454.014</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="99.00899">
     <UserGenere>masculino</UserGenere>
@@ -2998,7 +2998,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1469.081</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="100.0018">
     <UserGenere>masculino</UserGenere>
@@ -3028,7 +3028,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1483.973</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="101.0104">
     <UserGenere>masculino</UserGenere>
@@ -3058,7 +3058,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1499.102</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="102.0032">
     <UserGenere>masculino</UserGenere>
@@ -3088,7 +3088,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1513.993</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="103.0085">
     <UserGenere>masculino</UserGenere>
@@ -3118,7 +3118,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1529.075</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="104.003">
     <UserGenere>masculino</UserGenere>
@@ -3148,7 +3148,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1543.991</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="105.0098">
     <UserGenere>masculino</UserGenere>
@@ -3178,7 +3178,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1559.094</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="106.0113">
     <UserGenere>masculino</UserGenere>
@@ -3208,7 +3208,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1574.116</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="107.0064">
     <UserGenere>masculino</UserGenere>
@@ -3238,7 +3238,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1589.041</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="108.0108">
     <UserGenere>masculino</UserGenere>
@@ -3268,7 +3268,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1604.107</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="109.0045">
     <UserGenere>masculino</UserGenere>
@@ -3298,7 +3298,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1619.012</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="110.01">
     <UserGenere>masculino</UserGenere>
@@ -3328,7 +3328,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1634.096</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="111.0072">
     <UserGenere>masculino</UserGenere>
@@ -3358,7 +3358,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1649.053</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="112.0093">
     <UserGenere>masculino</UserGenere>
@@ -3388,7 +3388,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1664.085</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="113.0033">
     <UserGenere>masculino</UserGenere>
@@ -3418,7 +3418,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1678.996</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="114.0084">
     <UserGenere>masculino</UserGenere>
@@ -3448,7 +3448,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1694.073</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="115.0146">
     <UserGenere>masculino</UserGenere>
@@ -3478,7 +3478,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1709.166</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="116.0137">
     <UserGenere>masculino</UserGenere>
@@ -3508,7 +3508,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1724.153</PlayerPositionZ>
     <GameFps>50</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="117.0036">
     <UserGenere>masculino</UserGenere>
@@ -3538,7 +3538,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1739.001</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="118.0088">
     <UserGenere>masculino</UserGenere>
@@ -3568,7 +3568,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1754.079</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="119.0153">
     <UserGenere>masculino</UserGenere>
@@ -3598,7 +3598,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1769.176</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="120.0081">
     <UserGenere>masculino</UserGenere>
@@ -3628,7 +3628,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1784.069</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="121.0015">
     <UserGenere>masculino</UserGenere>
@@ -3658,7 +3658,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1798.97</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="122.013">
     <UserGenere>masculino</UserGenere>
@@ -3688,7 +3688,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1814.142</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="123.0137">
     <UserGenere>masculino</UserGenere>
@@ -3718,7 +3718,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1829.155</PlayerPositionZ>
     <GameFps>92</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="124.0104">
     <UserGenere>masculino</UserGenere>
@@ -3748,7 +3748,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1844.104</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="125.002">
     <UserGenere>masculino</UserGenere>
@@ -3778,7 +3778,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1858.979</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="126.0053">
     <UserGenere>masculino</UserGenere>
@@ -3808,7 +3808,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1874.029</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="127.0016">
     <UserGenere>masculino</UserGenere>
@@ -3838,7 +3838,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1888.973</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="128.0056">
     <UserGenere>masculino</UserGenere>
@@ -3868,7 +3868,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1904.033</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="129.0113">
     <UserGenere>masculino</UserGenere>
@@ -3898,7 +3898,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1919.118</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="130.003">
     <UserGenere>masculino</UserGenere>
@@ -3928,7 +3928,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1933.994</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="131.0101">
     <UserGenere>masculino</UserGenere>
@@ -3958,7 +3958,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1949.101</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="132.0025">
     <UserGenere>masculino</UserGenere>
@@ -3988,7 +3988,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1963.985</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="133.0079">
     <UserGenere>masculino</UserGenere>
@@ -4018,7 +4018,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1979.067</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="134.0021">
     <UserGenere>masculino</UserGenere>
@@ -4048,7 +4048,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>1993.98</PlayerPositionZ>
     <GameFps>80</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="135.0074">
     <UserGenere>masculino</UserGenere>
@@ -4078,7 +4078,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2009.059</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="136.0018">
     <UserGenere>masculino</UserGenere>
@@ -4108,7 +4108,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2023.977</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="137.0089">
     <UserGenere>masculino</UserGenere>
@@ -4138,7 +4138,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2039.082</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="138.0021">
     <UserGenere>masculino</UserGenere>
@@ -4168,7 +4168,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2053.98</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="139.0057">
     <UserGenere>masculino</UserGenere>
@@ -4198,7 +4198,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2069.036</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="140.011">
     <UserGenere>masculino</UserGenere>
@@ -4228,7 +4228,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2084.116</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="141.005">
     <UserGenere>masculino</UserGenere>
@@ -4258,7 +4258,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2099.026</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="142.0104">
     <UserGenere>masculino</UserGenere>
@@ -4288,7 +4288,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2114.104</PlayerPositionZ>
     <GameFps>68</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="143.0046">
     <UserGenere>masculino</UserGenere>
@@ -4318,7 +4318,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2129.017</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="144.0044">
     <UserGenere>masculino</UserGenere>
@@ -4348,7 +4348,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2144.014</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="145.0067">
     <UserGenere>masculino</UserGenere>
@@ -4378,7 +4378,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2159.048</PlayerPositionZ>
     <GameFps>80</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="146.0113">
     <UserGenere>masculino</UserGenere>
@@ -4408,7 +4408,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2174.118</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="147.0033">
     <UserGenere>masculino</UserGenere>
@@ -4438,7 +4438,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2188.999</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="148.0102">
     <UserGenere>masculino</UserGenere>
@@ -4468,7 +4468,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2204.102</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="149.0044">
     <UserGenere>masculino</UserGenere>
@@ -4498,7 +4498,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2219.017</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="150.0077">
     <UserGenere>masculino</UserGenere>
@@ -4528,7 +4528,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2234.067</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="151.0031">
     <UserGenere>masculino</UserGenere>
@@ -4558,7 +4558,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2248.999</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="152.0067">
     <UserGenere>masculino</UserGenere>
@@ -4588,7 +4588,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2264.053</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="153.0028">
     <UserGenere>masculino</UserGenere>
@@ -4618,7 +4618,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2278.995</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="154.0091">
     <UserGenere>masculino</UserGenere>
@@ -4648,7 +4648,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2294.091</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="155.0029">
     <UserGenere>masculino</UserGenere>
@@ -4678,7 +4678,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2308.998</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="156.0066">
     <UserGenere>masculino</UserGenere>
@@ -4708,7 +4708,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2324.053</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="157.0107">
     <UserGenere>masculino</UserGenere>
@@ -4738,7 +4738,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2339.116</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="158.0049">
     <UserGenere>masculino</UserGenere>
@@ -4768,7 +4768,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2354.028</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="159.0118">
     <UserGenere>masculino</UserGenere>
@@ -4798,7 +4798,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2369.132</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="159.9949">
     <UserGenere>masculino</UserGenere>
@@ -4828,7 +4828,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2383.877</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="161.0097">
     <UserGenere>masculino</UserGenere>
@@ -4858,7 +4858,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2399.099</PlayerPositionZ>
     <GameFps>60</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="162.0036">
     <UserGenere>masculino</UserGenere>
@@ -4888,7 +4888,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2414.007</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="163.011">
     <UserGenere>masculino</UserGenere>
@@ -4918,7 +4918,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2429.118</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="164.0031">
     <UserGenere>masculino</UserGenere>
@@ -4948,7 +4948,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2443.999</PlayerPositionZ>
     <GameFps>82</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="165.0096">
     <UserGenere>masculino</UserGenere>
@@ -4978,7 +4978,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2459.097</PlayerPositionZ>
     <GameFps>70</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="166.0017">
     <UserGenere>masculino</UserGenere>
@@ -5008,7 +5008,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2473.979</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="167.0187">
     <UserGenere>masculino</UserGenere>
@@ -5038,7 +5038,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2489.234</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="168.0059">
     <UserGenere>masculino</UserGenere>
@@ -5068,7 +5068,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2504.042</PlayerPositionZ>
     <GameFps>78</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="169.007">
     <UserGenere>masculino</UserGenere>
@@ -5098,7 +5098,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2519.057</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="170.0048">
     <UserGenere>masculino</UserGenere>
@@ -5128,7 +5128,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2534.023</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="171.0096">
     <UserGenere>masculino</UserGenere>
@@ -5158,7 +5158,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2549.095</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="172.0114">
     <UserGenere>masculino</UserGenere>
@@ -5188,7 +5188,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2564.121</PlayerPositionZ>
     <GameFps>82</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="173.0062">
     <UserGenere>masculino</UserGenere>
@@ -5218,7 +5218,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2579.042</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="174.011">
     <UserGenere>masculino</UserGenere>
@@ -5248,7 +5248,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2594.113</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="175.0054">
     <UserGenere>masculino</UserGenere>
@@ -5278,7 +5278,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2609.031</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="176.0102">
     <UserGenere>masculino</UserGenere>
@@ -5308,7 +5308,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2624.104</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="177.0122">
     <UserGenere>masculino</UserGenere>
@@ -5338,7 +5338,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2639.132</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="178.002">
     <UserGenere>masculino</UserGenere>
@@ -5368,7 +5368,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2653.98</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="179.0037">
     <UserGenere>masculino</UserGenere>
@@ -5398,7 +5398,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2669.003</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="180.0095">
     <UserGenere>masculino</UserGenere>
@@ -5428,7 +5428,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2684.089</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="181.0031">
     <UserGenere>masculino</UserGenere>
@@ -5458,7 +5458,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2698.995</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="182.0083">
     <UserGenere>masculino</UserGenere>
@@ -5488,7 +5488,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2714.073</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="183.0061">
     <UserGenere>masculino</UserGenere>
@@ -5518,7 +5518,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2729.04</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="184.0159">
     <UserGenere>masculino</UserGenere>
@@ -5548,7 +5548,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2744.186</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="185.002">
     <UserGenere>masculino</UserGenere>
@@ -5578,7 +5578,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2758.979</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="186.0086">
     <UserGenere>masculino</UserGenere>
@@ -5608,7 +5608,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2774.076</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="187.0122">
     <UserGenere>masculino</UserGenere>
@@ -5638,7 +5638,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2789.131</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="188.0064">
     <UserGenere>masculino</UserGenere>
@@ -5668,7 +5668,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2804.043</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="189.002">
     <UserGenere>masculino</UserGenere>
@@ -5698,7 +5698,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2818.976</PlayerPositionZ>
     <GameFps>82</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="190.0063">
     <UserGenere>masculino</UserGenere>
@@ -5728,7 +5728,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2834.041</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="191.0112">
     <UserGenere>masculino</UserGenere>
@@ -5758,7 +5758,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2849.113</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="192.0051">
     <UserGenere>masculino</UserGenere>
@@ -5788,7 +5788,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2864.023</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="193.0103">
     <UserGenere>masculino</UserGenere>
@@ -5818,7 +5818,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2879.1</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="194.0043">
     <UserGenere>masculino</UserGenere>
@@ -5848,7 +5848,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2894.01</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="195.0022">
     <UserGenere>masculino</UserGenere>
@@ -5878,7 +5878,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2908.979</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="196.0058">
     <UserGenere>masculino</UserGenere>
@@ -5908,7 +5908,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2924.034</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="197.0091">
     <UserGenere>masculino</UserGenere>
@@ -5938,7 +5938,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2939.082</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="198.003">
     <UserGenere>masculino</UserGenere>
@@ -5968,7 +5968,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2953.99</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="199.0083">
     <UserGenere>masculino</UserGenere>
@@ -5998,7 +5998,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2969.07</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="200.0061">
     <UserGenere>masculino</UserGenere>
@@ -6028,7 +6028,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2984.036</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="201.0115">
     <UserGenere>masculino</UserGenere>
@@ -6058,7 +6058,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>2999.115</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="202.0037">
     <UserGenere>masculino</UserGenere>
@@ -6088,7 +6088,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3013.998</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="203.0114">
     <UserGenere>masculino</UserGenere>
@@ -6118,7 +6118,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3029.113</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="204.0047">
     <UserGenere>masculino</UserGenere>
@@ -6148,7 +6148,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3044.014</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="205.0094">
     <UserGenere>masculino</UserGenere>
@@ -6178,7 +6178,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3059.084</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="206.0028">
     <UserGenere>masculino</UserGenere>
@@ -6208,7 +6208,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3073.988</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="207.0094">
     <UserGenere>masculino</UserGenere>
@@ -6238,7 +6238,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3089.087</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="208.0028">
     <UserGenere>masculino</UserGenere>
@@ -6268,7 +6268,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3103.989</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="209.0074">
     <UserGenere>masculino</UserGenere>
@@ -6298,7 +6298,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3119.057</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="209.9671">
     <UserGenere>masculino</UserGenere>
@@ -6328,7 +6328,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3133.454</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="211.0051">
     <UserGenere>masculino</UserGenere>
@@ -6358,7 +6358,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3149.023</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="212.014">
     <UserGenere>masculino</UserGenere>
@@ -6388,7 +6388,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3164.157</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="213.0062">
     <UserGenere>masculino</UserGenere>
@@ -6418,7 +6418,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3179.041</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="214.0113">
     <UserGenere>masculino</UserGenere>
@@ -6448,7 +6448,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3194.115</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="215.0032">
     <UserGenere>masculino</UserGenere>
@@ -6478,7 +6478,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3208.993</PlayerPositionZ>
     <GameFps>92</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="216.0087">
     <UserGenere>masculino</UserGenere>
@@ -6508,7 +6508,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3224.075</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="217.0049">
     <UserGenere>masculino</UserGenere>
@@ -6538,7 +6538,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3239.017</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="218.0086">
     <UserGenere>masculino</UserGenere>
@@ -6568,7 +6568,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3254.073</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="219.0033">
     <UserGenere>masculino</UserGenere>
@@ -6598,7 +6598,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3268.994</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="220.0073">
     <UserGenere>masculino</UserGenere>
@@ -6628,7 +6628,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3284.055</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="221.0122">
     <UserGenere>masculino</UserGenere>
@@ -6658,7 +6658,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3299.128</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="222.007">
     <UserGenere>masculino</UserGenere>
@@ -6688,7 +6688,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3314.049</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="223.0024">
     <UserGenere>masculino</UserGenere>
@@ -6718,7 +6718,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3328.981</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="224.0074">
     <UserGenere>masculino</UserGenere>
@@ -6748,7 +6748,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3344.057</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="225.0118">
     <UserGenere>masculino</UserGenere>
@@ -6778,7 +6778,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3359.124</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="226.0059">
     <UserGenere>masculino</UserGenere>
@@ -6808,7 +6808,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3374.034</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="227.0019">
     <UserGenere>masculino</UserGenere>
@@ -6838,7 +6838,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3388.975</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="228.0045">
     <UserGenere>masculino</UserGenere>
@@ -6868,7 +6868,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3404.014</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="229.0115">
     <UserGenere>masculino</UserGenere>
@@ -6898,7 +6898,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3419.12</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="230.0039">
     <UserGenere>masculino</UserGenere>
@@ -6928,7 +6928,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3434.005</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="231.0092">
     <UserGenere>masculino</UserGenere>
@@ -6958,7 +6958,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3449.084</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="232.0057">
     <UserGenere>masculino</UserGenere>
@@ -6988,7 +6988,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3464.032</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="233.0103">
     <UserGenere>masculino</UserGenere>
@@ -7018,7 +7018,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3479.1</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="234.0025">
     <UserGenere>masculino</UserGenere>
@@ -7048,7 +7048,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3493.984</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="235.0082">
     <UserGenere>masculino</UserGenere>
@@ -7078,7 +7078,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3509.072</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="236.0039">
     <UserGenere>masculino</UserGenere>
@@ -7108,7 +7108,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3524.006</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="237.011">
     <UserGenere>masculino</UserGenere>
@@ -7138,7 +7138,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3539.115</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="238.0056">
     <UserGenere>masculino</UserGenere>
@@ -7168,7 +7168,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3554.034</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="239.0104">
     <UserGenere>masculino</UserGenere>
@@ -7198,7 +7198,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3569.105</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="240.0039">
     <UserGenere>masculino</UserGenere>
@@ -7228,7 +7228,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3584.008</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="241.006">
     <UserGenere>masculino</UserGenere>
@@ -7258,7 +7258,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3599.038</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="242.0034">
     <UserGenere>masculino</UserGenere>
@@ -7288,7 +7288,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3614</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="243.0056">
     <UserGenere>masculino</UserGenere>
@@ -7318,7 +7318,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3629.032</PlayerPositionZ>
     <GameFps>78</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="244.013">
     <UserGenere>masculino</UserGenere>
@@ -7348,7 +7348,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3644.143</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="245.0048">
     <UserGenere>masculino</UserGenere>
@@ -7378,7 +7378,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3659.018</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="246.004">
     <UserGenere>masculino</UserGenere>
@@ -7408,7 +7408,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3674.006</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="247.0052">
     <UserGenere>masculino</UserGenere>
@@ -7438,7 +7438,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3689.024</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="248.0107">
     <UserGenere>masculino</UserGenere>
@@ -7468,7 +7468,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3704.107</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="249.0114">
     <UserGenere>masculino</UserGenere>
@@ -7498,7 +7498,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3719.118</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="250.009">
     <UserGenere>masculino</UserGenere>
@@ -7528,7 +7528,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3734.083</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="251.0027">
     <UserGenere>masculino</UserGenere>
@@ -7558,7 +7558,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3748.99</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="252.0082">
     <UserGenere>masculino</UserGenere>
@@ -7588,7 +7588,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3764.073</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="253.0027">
     <UserGenere>masculino</UserGenere>
@@ -7618,7 +7618,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3778.991</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="254.0041">
     <UserGenere>masculino</UserGenere>
@@ -7648,7 +7648,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3794.012</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="255.0071">
     <UserGenere>masculino</UserGenere>
@@ -7678,7 +7678,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3809.056</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="256.008">
     <UserGenere>masculino</UserGenere>
@@ -7708,7 +7708,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3824.07</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="257.0125">
     <UserGenere>masculino</UserGenere>
@@ -7738,7 +7738,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3839.14</PlayerPositionZ>
     <GameFps>92</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="258.0077">
     <UserGenere>masculino</UserGenere>
@@ -7768,7 +7768,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3854.067</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="259.011">
     <UserGenere>masculino</UserGenere>
@@ -7798,7 +7798,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3869.115</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="260.005">
     <UserGenere>masculino</UserGenere>
@@ -7828,7 +7828,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3884.024</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="261.0104">
     <UserGenere>masculino</UserGenere>
@@ -7858,7 +7858,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3899.105</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="262.0042">
     <UserGenere>masculino</UserGenere>
@@ -7888,7 +7888,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3914.012</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="263.0124">
     <UserGenere>masculino</UserGenere>
@@ -7918,7 +7918,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3929.137</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="264.0055">
     <UserGenere>masculino</UserGenere>
@@ -7948,7 +7948,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3944.036</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="265.013">
     <UserGenere>masculino</UserGenere>
@@ -7978,7 +7978,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3959.147</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="266.0034">
     <UserGenere>masculino</UserGenere>
@@ -8008,7 +8008,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3974.003</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="267.0094">
     <UserGenere>masculino</UserGenere>
@@ -8038,7 +8038,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>3989.094</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="268.0048">
     <UserGenere>masculino</UserGenere>
@@ -8068,7 +8068,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4004.027</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="269.0077">
     <UserGenere>masculino</UserGenere>
@@ -8098,7 +8098,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4019.071</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="270.0021">
     <UserGenere>masculino</UserGenere>
@@ -8128,7 +8128,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4033.986</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="271.0068">
     <UserGenere>masculino</UserGenere>
@@ -8158,7 +8158,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4049.057</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="272.0017">
     <UserGenere>masculino</UserGenere>
@@ -8188,7 +8188,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4063.981</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="273.011">
     <UserGenere>masculino</UserGenere>
@@ -8218,7 +8218,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4079.119</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="274.0031">
     <UserGenere>masculino</UserGenere>
@@ -8248,7 +8248,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4093.999</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="275.0052">
     <UserGenere>masculino</UserGenere>
@@ -8278,7 +8278,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4109.03</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="276.0111">
     <UserGenere>masculino</UserGenere>
@@ -8308,7 +8308,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4124.119</PlayerPositionZ>
     <GameFps>72</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="277.0051">
     <UserGenere>masculino</UserGenere>
@@ -8338,7 +8338,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4139.027</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="278.0129">
     <UserGenere>masculino</UserGenere>
@@ -8368,7 +8368,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4154.143</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="279.009">
     <UserGenere>masculino</UserGenere>
@@ -8398,7 +8398,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4169.085</PlayerPositionZ>
     <GameFps>70</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="280.0092">
     <UserGenere>masculino</UserGenere>
@@ -8428,7 +8428,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4184.089</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="281.0153">
     <UserGenere>masculino</UserGenere>
@@ -8458,7 +8458,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4199.181</PlayerPositionZ>
     <GameFps>76</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="282.0119">
     <UserGenere>masculino</UserGenere>
@@ -8488,7 +8488,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4214.13</PlayerPositionZ>
     <GameFps>30</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="282.9931">
     <UserGenere>masculino</UserGenere>
@@ -8518,7 +8518,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4228.85</PlayerPositionZ>
     <GameFps>46</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="283.9977">
     <UserGenere>masculino</UserGenere>
@@ -8548,7 +8548,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4243.919</PlayerPositionZ>
     <GameFps>80</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="285.0031">
     <UserGenere>masculino</UserGenere>
@@ -8578,7 +8578,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4258.999</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="286.0077">
     <UserGenere>masculino</UserGenere>
@@ -8608,7 +8608,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4274.066</PlayerPositionZ>
     <GameFps>80</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="287.0039">
     <UserGenere>masculino</UserGenere>
@@ -8638,7 +8638,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4289.008</PlayerPositionZ>
     <GameFps>82</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="288.007">
     <UserGenere>masculino</UserGenere>
@@ -8668,7 +8668,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4304.054</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="289.0149">
     <UserGenere>masculino</UserGenere>
@@ -8698,7 +8698,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4319.174</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="290.014">
     <UserGenere>masculino</UserGenere>
@@ -8728,7 +8728,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4334.162</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="291.0119">
     <UserGenere>masculino</UserGenere>
@@ -8758,7 +8758,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4349.129</PlayerPositionZ>
     <GameFps>48</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="292.0104">
     <UserGenere>masculino</UserGenere>
@@ -8788,7 +8788,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4364.105</PlayerPositionZ>
     <GameFps>44</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="293.0119">
     <UserGenere>masculino</UserGenere>
@@ -8818,7 +8818,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4379.128</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="294.0055">
     <UserGenere>masculino</UserGenere>
@@ -8848,7 +8848,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4394.031</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="295.0124">
     <UserGenere>masculino</UserGenere>
@@ -8878,7 +8878,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4409.134</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="296.0055">
     <UserGenere>masculino</UserGenere>
@@ -8908,7 +8908,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4424.027</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="297.0104">
     <UserGenere>masculino</UserGenere>
@@ -8938,7 +8938,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4439.099</PlayerPositionZ>
     <GameFps>48</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="298.0055">
     <UserGenere>masculino</UserGenere>
@@ -8968,7 +8968,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4454.027</PlayerPositionZ>
     <GameFps>88</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="299.0093">
     <UserGenere>masculino</UserGenere>
@@ -8998,7 +8998,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4469.083</PlayerPositionZ>
     <GameFps>90</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="300.0055">
     <UserGenere>masculino</UserGenere>
@@ -9028,7 +9028,7 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4484.028</PlayerPositionZ>
     <GameFps>86</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
   <Data TimeStamp="301.0096">
     <UserGenere>masculino</UserGenere>
@@ -9058,6 +9058,6 @@
     <PlayerPositionY>12</PlayerPositionY>
     <PlayerPositionZ>4499.089</PlayerPositionZ>
     <GameFps>84</GameFps>
-    <DiscomfortLevel>0</DiscomfortLevel>
+    <DiscomfortLevel>2</DiscomfortLevel>
   </Data>
 </USERDATA>
